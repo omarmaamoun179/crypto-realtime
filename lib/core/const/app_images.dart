@@ -1,5 +1,5 @@
 class AppImages {
-  static const String baseFolder = 'assets/images/svgs/';
+  static const String baseFolder = 'assets/images/png/';
   static const String btc = '${baseFolder}btc.png';
   static const String eth = '${baseFolder}eth.png';
   static const String xrp = '${baseFolder}xrp.png';
