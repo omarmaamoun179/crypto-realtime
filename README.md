@@ -20,6 +20,12 @@ A Flutter application for real-time cryptocurrency price tracking and live updat
 - Easily extensible to support more coins or new features
 
 ---
+## Inspector
+You can make long press on screen to follow the requests 
+example at screenshot
+
+---
+
 
 ## Project Architecture & Technical Details
 
