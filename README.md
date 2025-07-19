@@ -51,8 +51,7 @@ This project is structured using the **Clean Architecture** approach, ensuring h
 
 ## Requirements
 
-- Flutter 3.0 or later  
-- Dart 2.17 or later  
+- Flutter 3.29.3 
 - Android/iOS device or emulator
 
 
@@ -60,8 +59,13 @@ This project is structured using the **Clean Architecture** approach, ensuring h
 
 ## Screenshots
 
-<!-- Add screenshots or GIFs here if available -->
-<!-- ![screenshot](screenshots/home_screen.png) -->
+<div align="center">
+  
+  <img src="screenshot/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 14.25.34.png" alt="App Screenshot 1" width="300"/>
+  <img src="screenshot/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 14.26.21.png" alt="App Screenshot 2" width="300"/>
+  <img src="screenshot/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-19 at 14.26.43.png" alt="App Screenshot 3" width="300"/>
+
+</div>
 
 ---
 

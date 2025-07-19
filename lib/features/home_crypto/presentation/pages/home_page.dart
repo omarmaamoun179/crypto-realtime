@@ -135,10 +135,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   Center _buildNoText(BuildContext context) {
-    final theme = Theme.of(context);
-    return Center(
-      child: SubtitleText(text: 'No results found', color: theme.hintColor),
-    );
+    return const Center(child: SubtitleText(text: 'No results found'));
   }
 
   Widget _buildTitles() {
